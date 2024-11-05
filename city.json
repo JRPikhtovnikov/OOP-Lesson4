@@ -1,0 +1,189 @@
+{
+  "Lenin Street": {
+    "houses": {
+      "1": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "1": {
+                "residents": 3
+              },
+              "2": {
+                "residents": 2
+              },
+              "3": {
+                "residents": 4
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "4": {
+                "residents": 1
+              },
+              "5": {
+                "residents": 3
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "6": {
+                "residents": 2
+              },
+              "7": {
+                "residents": 50
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "8": {
+                "residents": 4
+              },
+              "9": {
+                "residents": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Pushkin Street": {
+    "houses": {
+      "3": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "10": {
+                "residents": 2
+              },
+              "11": {
+                "residents": 3
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "12": {
+                "residents": 2
+              },
+              "13": {
+                "residents": 4
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gorky Street": {
+    "houses": {
+      "4": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "14": {
+                "residents": 1
+              },
+              "15": {
+                "residents": 2
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "16": {
+                "residents": 3
+              },
+              "17": {
+                "residents": 2
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "18": {
+                "residents": 4
+              },
+              "19": {
+                "residents": 1
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "20": {
+                "residents": 3
+              },
+              "21": {
+                "residents": 2
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Tverskaya Street": {
+    "houses": {
+      "6": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "22": {
+                "residents": 3
+              },
+              "23": {
+                "residents": 2
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "24": {
+                "residents": 5
+              },
+              "25": {
+                "residents": 1
+              }
+            }
+          }
+        }
+      },
+      "7": {
+        "floors": {
+          "1": {
+            "apartments": {
+              "26": {
+                "residents": 4
+              },
+              "27": {
+                "residents": 2
+              }
+            }
+          },
+          "2": {
+            "apartments": {
+              "28": {
+                "residents": 3
+              },
+              "29": {
+                "residents": 2
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
